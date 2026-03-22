@@ -1,0 +1,12 @@
+# File oggetto (creati durante la compilazione)
+*.o
+*.obj
+
+# Eseguibili di default e Windows
+*.exe
+*.out
+*.app
+
+# Cartelle in cui metterai i file compilati (Best Practice)
+bin/
+build/
