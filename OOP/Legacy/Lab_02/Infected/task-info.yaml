@@ -1,0 +1,74 @@
+type: edu
+files:
+- name: src/Infected.java
+  visible: true
+  placeholders:
+  - offset: 140
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 140
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: czLSZ13RLT00eQi7WTYWOTlaWQN+/PRkBsm6D1e7Ux6vuDTB1OVEbQB18fjAcwpZBBQvTkl1dt9sFVIA5/ttpw==
+  - offset: 217
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 217
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: KBro8s5cJrcoJ9h5dmflibU2dGgv4sx47LFOeVxMaiK3R9jN7DnDqmNJMCyAiFJV+8eQlTuQSEUZWo6NU5GuxDo3NWjrKTVwski/dadmUREaKBTZ721drXy4fEJBZv2e
+  - offset: 282
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 282
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: ymFEjenZI8P6DFm6Rl92Oln0orpke+7p2iHHbMCMVyY=
+  - offset: 424
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 424
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: czLSZ13RLT00eQi7WTYWOSvXyD4G/BWPuOpXX1XYGGPT6OyIjBFAw3Q8HZxBB086
+  - offset: 498
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 498
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: DP5YOpLY/NHqP3+peN2QIKUAWBCvkKp3t3B+GzrVU9WaV4fD10e7klSthPe2a4PURPlAhHB8x/sW2O1q2chA9g==
+  encrypted_text: eNWTKXFqLKU50Sse448rDi1TG9io8y8oLyltcJIhB9JchNSWcTQq8gXnOBibCAJuqFxr6ToA4HoVi8mRjg0exmMKTXuP4NrkIBfzVI+wgszINxcop0TnzFzzXLynooUoY7f0ZihleMnhn5gM3W1UCGG4vc5HZNGSuz5skp2F+2Itj6IrVQMo0QON4hKABejMQTJGSZDTTR0iexXiLCTZ/VJgzJhrUBXZq+2IT81/1+kL1fztQNSqTdcgVkdIXRaLxyOaBfgw3QL6y+YjbMAryxI1ZIJwN9LKzZ0pDGSAUEXPZEDQ06UXmb3PmRul8fmS2zTgapzb/LWEqpo4w9AvXIn5vdh7F0qtXR7pjHSmnaUg6CXkADd9a1HT2rTYZft1UONLENvrnU7hgWnlKUO8w9mE4DskxQpr5VwCq6j3XOLCRw1i0torAcfhJIedAWh3SuoWuFloUm4VD6VRh5V+MeLkglwIVLH1faxC9TZciPZXbzRaXS/0SunKwMCClPihgxdbPKO7X5a2q0k2uefm1EuvtU1tgLPollRf8AeckUEk8aomIXAsHSZQvssqiCB8jtQenuVNgVfmjQWvNrUavqe+rEowHQUoLNyBr9ISvPl0tvG4iUH0I8u5g2dRCgEZAQtuii7hxP2IJiJeFu2AyjAF7oEEMD8TWMcrDTG/pGlULHnCj6tyQu/y++k/YWQG
+  learner_created: false
+- name: test/InfectedTest.java
+  visible: true
+  placeholders:
+  - offset: 82
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 82
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: MocuzvnZhyt+BoTf+SO4StqY75ePebe0+kJXkxklFYPDtMAKRe2x9j7B5atDCIw8a5trEz0IU3WOl7jMOuoMPQMx9iouhW6f8wdImMX1vTPSKJ9X5wXTSB+EINhZ/4KnzuziydTxU789YlNlKhCTtEuE6Y/W7rtnRBf5niDJsGuWJQPhe232oNandfZisNHk1RtcnRXm1fw12BFOyh2TkNy96migNYkjGz/PCQ9QYvMDh4LvvDPy0KO5yMUcpM/CeIIk/Skzw0fRINeS9rjo9tiQ2HiJwzADdjgtO1L8jRsoCJc3hjBOphtpX3TLR9bpmSf1Kuywb7U/iAw/BcxyVD4SLY+nstQRweBXW2unBoOgqSe17xp1DivcudcFStFymNbgzmLngN9Pb5amNKYvMVXrLGkPYTk7SNYJxPy24X0ZQJF9oglOX0r9hU4GORS3Xyooy5t98W0MuGAcf3u6Jh5qcfyr3xjbF+wuc+8L5fR2E1Yh0TAdudSiDpOL5+9Ny/oQfEVqyWUMrpItqjKXUjthACFMVEde1LZWWt7iKwYYLAIDx+/pv9vDQagQqxU78myYUy4tsyJFqU2pR4WQCqAEX6u0OCAA5FlnpdFQOzCjJg7cOrjAbxXciL4oWsO9xlj5Qj4OkYg4wbOmKNN0Sc3yTKL11ekLaTFzyJ093iXtR+suMXkQ3roryCw1hxZ9KLuvPQq31c0cPvP0EWw7zenBHKPJK87xGv0zrm4xitkEJrYh6zndR4F4hY6K63olUJ0jGsxfJbtz6L+eqtrAvfLiiqmfL6St00ixKok7mzHoc8ms4U/VCIBm90rc57Xp6BalikhAeMTzM6qyrXlzAe7X4sg0/9TpVVWGl3/srlgtEn/ClwNh8r64+Lw/JdLe4rl5VHnxFUpFVsXibN8uys+eeRDsiGwzG8Y1oZRyO1rgFdAtP6Jc7vH/6HuzSZWYxcZKtz+XnqdAPn88kj65UOFCJOnXPzTNU4SmRJSXOs+obnSCAj60zfjkkd0e7k6S4i0goKCmu8jjaryQ2tlxqAUBMLPlrhOlyZCCd/RKwRk=
+  encrypted_text: ITs8Nv8EH6QWJG5nufD7nL+5+4bhYoXDvmVthWtIgQ65QGrosPwl8pWa8Roz0DaOTNc1lxoDgrDm2lLTjdybLPXNIVNoGQV2bac2dX8zfT6sDL1PTd0nHs81fQX/pM0T
+  learner_created: false
+status: Unchecked
+record: -1

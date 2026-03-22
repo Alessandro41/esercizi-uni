@@ -1,0 +1,27 @@
+type: output
+files:
+- name: src/Main.java
+  visible: true
+  placeholders:
+  - offset: 203
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 203
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 1tk8bw6n/VX6V8JmkHXFa1x79lvse+P8CvrMCrycnRNFLgAY7772JGRQeJ93tL0e8EFJ7/hX3jqqvRczljIiK3/OsORaQ+2DLy/8Omd/JZY=
+  encrypted_text: a3Oc3sOKihNm0o8Cls6Am2veUqlp63F5lxEAwbBQempXPsBIjeXs2wTZafI9V0nFYxAf1rSciieVcn3ovR1XW6nfAsel6emcqdEeR+qmmicTc0G9Hq1YnFah9Vb3nlqcjID0Dfuk+cnpSB0k1NsmGIqr/BCxe1NPw6YYOwiIhmjL3gph2M0hOeBYtDJwZPc3Hep2WmaM9lvQYcRgu8QgaG+ElNqVJj8VOjhI6h0XYhzk3lYPfdWEFjoTXdJdHW5fKO92vrrvkYyHF566CB39UJjBDO018olfg8ldffG3iOmcihHBywIE4efBqgAb1zCU/OC8vrP8zsRN1U3ReHXbYGaW5bP+Zfn7hkkPq0fEI6/+5uW6gJwxl4p8K6/re592
+  learner_created: false
+- name: test/output.txt
+  visible: false
+  encrypted_text: 142eKgSAMjUs/EmSj9N8Ow==
+  learner_created: false
+- name: test/latest_output.txt
+  visible: false
+  encrypted_text: 142eKgSAMjUs/EmSj9N8Ow==
+  learner_created: false
+status: Unchecked
+record: -1

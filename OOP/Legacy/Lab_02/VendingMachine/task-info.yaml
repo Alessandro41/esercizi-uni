@@ -1,0 +1,74 @@
+type: edu
+files:
+- name: src/VendingMachine.java
+  visible: true
+  placeholders:
+  - offset: 317
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 317
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: GW/zCbIOXFF8QCTytUeyzDQuwoQaDUHjUrCCQQqT7nXqoxF1ljPhXKBYcpssQe/H
+  - offset: 371
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 371
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: h16i70gpPdXXbCBvnydB54F1HKGrWfF0YMOKWa/kW7BeXIPXe8n3gMUOvAPuf0WAOuNCzF1egQIa6EH3Hnisre4WYHqsWcYyrrYQtprjIKcA3lJ4OskSYP2ZC+AKwIm6
+  - offset: 428
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 428
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: oMhzyp5YoWdEz/fOJuZcADz+S8e8aMyktYP5+/Ubfus=
+  - offset: 489
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 489
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: oV2XuCkB0gcLToTOiG9kcolO2FihUIZRILZvHVvB300=
+  - offset: 552
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 552
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: pCx8N/Hy8DSZGRTPI8NSKdKMTgCUOo32BwIBxLRIvYY=
+  encrypted_text: O/YAE+mabWyJTYRNuw61L5z/pvkWpL06ebKicy1xln+zREG2xvUzsEdzHPAzyyhfBiWfDRfmtxrHpKVkdMpXGedNhy+oJ7vuarRLJqAUgTHaiigG2b6AfYG5Q7xn2md+l1eYXz4nA9HjlUTIwIMvON/8mYzRCTmgXwVoBZZsX6yS1EeZS/A7j5ji+o4+bDQl2VJjaxz0ASTc3qdAAhXc52ZumkYVPFsYOvcZZuWsm3KrhKsyX3dTiaLgqPoQkx5h/Kt/NqBnLxGhXhl3mpk4oRp/666LLj9H6wDiyDN13dMQdl3kVOuYfrPl8T8138f5JmB1UDK3E/HqzGnejhY7EA4edLvz1R+RuK1VPgNrbHxQXf1/iUcWFj0TnVKzmnLAV5ROPUxqD06f0NXYoySPcMmIban1yqZ38dRI/P4lYkFDrZkF7FL0HAG7enn4XbTSh/OS5/HpKR3ZsbG2rV7prFAkiVlyoWVB1MScxve2yrrtWTNyGWrzJZWaWauGAuazK2IhRuK8GVRNiEKoDCM2LrFiybzOtXd6EejW2FOBf06KDpOKLeEyBX0YHapyZM0p7MGBBOhM7evBhIGZWpcC8vkKinDDTTBg5pY5GfEg9QRbcc/Hw8GiwMGyB2X8tyOtV4p/C4GJHbXp1T7F0IbL+bVKpGsMN/A8cn45u28gf59UjM6+PovTh0Sd8FKbZR8VQQhbHQJsjm/rLgyq6makJwXY9gk/Qwe7CRMHnAIw5Orp/i77djxgj91Ym5Pfatsi
+  learner_created: false
+- name: test/VendingMachineTest.java
+  visible: true
+  placeholders:
+  - offset: 85
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 85
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: fEmdrIRN5c9DqWHOAGtaRwCo5rvmJcOVUO8RgMK93EPH+HWQ+5CVQ9ecieurSql8pTK6YCe6n0Tr+qgnk5PxyRIL5JwxlhpvQMF79hqpcI2hyZMpruw4rPFhrQ/F2rsCYGeonItn9RDSI9iKjxpboHuFqhB0MpOgGphVIc9QnJui8fNhrOOtXWoJPm5JOYvgl60I1CZbH6xb+OQbEO/kvfRUeou5TBz1BTXxXO04J2lqeJwg/TqFSyYT19r1EODifCgLlWxiZZSh4Zu6RE7hodm8IfMd0Q9y+JFkPiUQFYemCUsF+iLgPAbDLjl9XBO+ASPNl03BZ1Mo2PUvHjxETEMkWSow2prEMSDICHpok3y5eyKZeSBt430H8HW9qVETpi5XIXxzFTJ3v8tkcUqLkct1CW0tEYFuTfWkovoAfEUkVJ6REdmmgk7kQLboMnyiZvgLVfDehKn/bqYF2HjvtQsZgG274qd7OdFEMeYRIZiKJwTPeF/KkWhFq5P4UZ0UNMtqNnB0N8vo7T1h+RVjuBcPHC7TZf4/opvJLghr/loivoQB2JhXzuh2e3FWnMza24XrTRiVXo3nRgvwjJn+lzoYKLd48hRyUU3vbbzBYLIFHvaUjoQ/H0L6YEtpY2pG+VmgBAFMlQStGQSlpn671+vImXC/9bnu2hbr1XeNWNgZ5BcHO9FzS2U0WJRTHLaAVkXxAEWandDQNhXM3xNyPgxQEMjFCf9j7OrplK8JI5d/u+Hxu6orul3UdWJVt67hk8Q7Pk3r+DCxN67VUjVHsQNbYwjnod2jK7M2boM4bEU+C6Kr+Wjg3U4vjRLLgnByDlzx6MPKWkXzIY5Fj2KUCr80+CE9P04Oc5t3VFNAsIyzhC6Hf6lnX9XOPRCJEjZt9rjJbU7hq20aacDTKjdDd1SzGL70uGHBIXbf8VhKgghAJRGQ5iXl7WF5CMpx2ELkrwYYYJmgEuoB1JReTiai5Q==
+  encrypted_text: ITs8Nv8EH6QWJG5nufD7nL+5+4bhYoXDvmVthWtIgQ65QGrosPwl8pWa8Roz0DaOVTcRjI787MaAvFAwM2AYMTLOigtXCMWAOGzhYsAvVGBzcLVIYMNxty/iaxWY6wW1LnJjv5dwODqchgqDQBwIqQ==
+  learner_created: false
+status: Unchecked
+record: -1

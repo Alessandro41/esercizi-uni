@@ -1,0 +1,27 @@
+type: output
+files:
+- name: src/Main.java
+  visible: true
+  placeholders:
+  - offset: 274
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 274
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: VUnUJC+y9iw0+YV5LWDJ4KE6TPCvGKwlHlXjvBG9tUxrF0/rHv8GjR73/4t32HEfL0bUcpr9nLJ5nwGWv3pk0IYOuT1W+gfCvE2xjNN0P6f7wkmRWRcbHRByg0GX890ueVI5F2aj6oLb9ijU4OZwDHqjoHJ4beaS4xqudXVUVjIYCFYZjDvyRr3NMHolX04nwigxnjnZBAgPVdHraACZg4MQ5IZ33eXlFF4VYGzfJ3/iOTBwrvJaizPf5k7O1XbHwCRAHVJm/ykln6RJSAGND8swHdI0KR0RB4wLm+t5g/FwcgMw1V+v6n4x93nYwhPeOIl9bLQZJ/34JASs1dkztVV7jzXGCuipo510AiY1NC+L/voB+tuct36Yc1B4LgOR7pbhvvmhQN3U4rb2HazpOmHAgaRFTJTP//iNWwk4fxHzerH59VOi6Tk6rHll7mZuhNLJjXwqNu14/AnJ7M7FI7xP+40fY9xphduj4YtSl9AAXLDK+T6WVpjjGLgaqAB6QlmfMO6/GC+CTmrgcB/kwru1cgpNqymN5CZkOLx9mh/tOFaRuO+K1zj0aPpHwLGGx/4DqadjB9SFm6g9wM0I1w==
+  encrypted_text: +T3Gua+Zc7QUSyguCNMuGVbzUq+/PfLXvTQf11Rdr3UVSb6Ez6s0AwXWPVqQq8F288N+4iV42kLmo1s9TqH0wW3BabFrtJo9G/VpN6W9taT/ZwZKdRIbfKcLqp6yd7mAh3Tx5NaejQa+ss4VmnP7gzIm6qzVJeniCeaePRo5Q1msIyPiQ4frbPsBzdIJUlLUC4z7LmiUBJKP0PUvTxzy2kQizU9BQ4Gf4KrYS1qZ8V9tmCDc2E6/sRhEL27TQ8zXtnAvtkoBshM3/GVH51b7k5NKt4jpVb3wcpJAGaf4ITdiJoaWbkBqGTwAwfwobtKKSYYeTRvcF52fBsSP05bSwiZ9Fy9LvW9C/2o4i6DHyGMqBEjX+1csUFNE6h4yAIExoXlIR9KqLN10p67V2U30kPZAKCHZ60vHn5igrluIL7TBsJwgG0aAib2mNWwqbulk4W21Hkpm515Wpem5JsZofuKx4bV/64uQ9iVquTkvJeTWP+6Rdu28tm2VECb1eI6gBhNtlKLo/CPhSQRdnxTJRInEOEN3PRNH7qNinwswNAs=
+  learner_created: false
+- name: test/output.txt
+  visible: false
+  encrypted_text: P6rtwJFA+plfgo/kym436liqNfpI/rkfbpIz4eujcp2aN0qVW+4d90C9I/6jAoPM0lk+3ttJ23GoaGEvMKVGng==
+  learner_created: false
+- name: test/latest_output.txt
+  visible: false
+  encrypted_text: P6rtwJFA+plfgo/kym436liqNfpI/rkfbpIz4eujcp2aN0qVW+4d90C9I/6jAoPM0lk+3ttJ23GoaGEvMKVGng==
+  learner_created: false
+status: Unchecked
+record: -1

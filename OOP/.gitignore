@@ -1,0 +1,17 @@
+# File compilati (Bytecode generato da javac)
+*.class
+
+# Cartelle di output di default usate dagli IDE (IntelliJ, Eclipse, ecc.)
+bin/
+out/
+build/
+
+# Archivi ed eseguibili Java (Pacchetti)
+*.jar
+*.war
+*.ear
+*.zip
+
+# Log di errore generati in caso di crash della Java Virtual Machine
+hs_err_pid*
+replay_pid*

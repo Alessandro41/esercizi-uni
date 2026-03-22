@@ -1,0 +1,83 @@
+type: edu
+files:
+- name: src/SavingAccount.java
+  visible: true
+  placeholders:
+  - offset: 149
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 149
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 5TZVWhkFKkWaHxD8U7Q4HSa1tZPPhF1QkKzYO53aR4U=
+  - offset: 289
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 289
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: H3NfM8uQJ0u5xWrLsj9yCQfx17c0EuyPm4rkM9jLFy8=
+  - offset: 404
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 404
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 5+wU1QBikkt+8i8RyXMF5QQsiORNvE3aLg3i4p9QCrhNm9AJ4HmcfGKr47O8+6NE
+  - offset: 468
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 468
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: rRLwbKssAzTqyXA50i+q+feWdbQGkAb/ZMVQc+XH+0s=
+  - offset: 604
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 604
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: jKURa6cAnPUNgJPAXg1ObPgfwtE4jhBNcPiyvVykxAz9YNLxFieTPsHq/eX8A1cn
+  - offset: 1016
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 1016
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: HhYgDAJCap1F/CTezdP/m7UtmozDUJC0E8Z6GK64kAduZodsWDR6Rz6ldAQmFkXlDNypGhn/55Z6EhQ4IB78VjcWPZuBt/bAOq8uizS9y2Io3wabUXnpYWPaFQXAw3O3RjQfasTGYlyHqYjdw5PYMQHy+Pim8m45CjWNknI4ZTGHUCnDAwo65c0L9Em6UPthipWLP2N70QEOmKCQWPfTojvZzNNp4hZuv3o8eWT8BTTR2rTrM3AixgCiG1DiRuAX
+  - offset: 1385
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 1385
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: BaaJEcTCc8Xlwk4q3psuL2fltpDpzZKQaeo5Svw8GPYD+WWSK2lPMrj1knVskmuLkK5iIbYWrSp0CZ1lZLqw+uR92GxyxJlKUO7T1wPkEpm9or/a9BKZllO5H+zFg4JWlfu7DLIB7BJoR5OP06EMd59R8lJln66VE2bkZDjcO8vURlXO+OygCY0GriXi9DdSmfgrW/L9+SGH/u1g8lhYkFHUznBvsikpTl+eCf4880CH5H/kjYMITuOjaUWLuFagmpDP95LfTDs+RSimoDt7LxwfS0A1VyhcfFkXRiM76FxQ+X0A3hpY8mK/q8HpwqcrYjCfE54UavhyWoIxJM2RehICjGAuNFCcQyuyq7RYJaFRv+M17KyfMVG1BPXP2+fjpTDXfKxxaD7naQUbBu3Ak/7TI18OhdaC4SCTQ9DhZ43t20ijwyU3F9llI9bfHA5zD5RU00SwFZfwbZbfXUEaNStJpDsQLZhrPl/UvwENZLt1USwVaM+Oph9TrrLKc6r7UyI8wko19np8ntO8eG/bCwLD0DfufFKle7/2qOMTSEg=
+  encrypted_text: T1ldR+BEXCRIWN9ChTa4y4IJQ/Q6HrU72chuIjXRegu1+BxWRswOCZustn6ZpoaaASwD1w+NtavutYhcshrT8XVmwNFwPtjra9xdtIvF0pTSg0YDUJ1wHo5JT155avZ2E7gPM4Pwq8elHj37sY0Xp8FVHV+clNV+2FYphP+j2VbQ+3VS7qG6g5iiXHHFWldx1hneOogB/4GYi6ZOXrgJuMmISXmeVD//67EGSL4RT7gxQlvNI2s6e3mlw8ssWaUZCJMLX/UhX2mcb7ENSfgGgSs8XY2bL0MTmJIP/Zr/QiPBBlYZ4zfbdw1Gt8t1oKiacC//rcqzeeYKOtqAUEvUa6lPrYjQwd+2C5/6KwNUtUKY6WGR7duZSZRcHf0Plvf6wilgcPuUCxezqG5Ubef9RK2+4BV77Zv5HCsw0p1gyk0WiU4PA32T7Funcx/135tc+veW1aA0KKmljw32deXLl5uaPhqzfkSTQLF0DCgbmgYP1jAU9QK/uS4mX6Ns140uJ599Em6xM+u0zxiTSzaEKz7wKdsJIDnOkA7+Q7a1g/u1yjj1EANO6DZ87dxCQDNvAbEtnTvoFGXm3yraIdlrv4NsMUxkXe9Lq0DiEFpWD8WmmjYkgTli6Hb1K1IdmsGOLourXAhLphZxVqNGLtm+aSS5dHwl7Nass0TG7EDzQsuJqYnO+gzLrivkGy8crNUZRkQ9fu3RtoLjSDwbgIBdPCQ4PHpX8AUYj9tRezVUkhS3EVm2BDPnExbKAxGHITvPZis+WcG9WyCYNKujHZuVNdI7vw/MMzMWWJIemweCXy08j4vdeXeenaCuymFHr+TMj+IEone0Fdfm6zI7+T59DqrDPP+6cKvsjhiWcYYo/wa8veMVNfdM6nExc2K0CNOkKGaMEGBKcaXSXMPwQIrs4D2vO3zFGO+akUN7Hr8WdqE9rhcFENqXWReEpXOSE5Dn7rQiu8eASU4OvTPKh5TwFMsUPf4ypHcXaq/hZpgko64pGnFxqZvxLQuMJIw+yxHYO9IEHyWWit6RNGsifnwdfy5TGciHruL+oNbpkzIx6XxlpTYB9v6D9CHv32vFAYixlu1GRbDYQ1Il+m6jjatglCr8mBDf9jfN/MEU23t7ii+3Wm2AMibClMdoDAaHMeZzEzg3AptM33VXQjvvfmAvfJnYZta1D7mEfA7n2f6581I8RjJdDys3O1QRjw07up/pascPIJNE09nxEagVHLrq4RsOQIqr49GEJmqMp9BfM8vrHVScsMnfGZP1uKTb8o1yl51le3UjWJ1zgc4A9fEZ4kGpTnHiO2vyJzOocqdiAlM1Wy81XFK93prjYC3s4C8tGw4+ZEi1DVulVgTfj/J5Cppm5F9/TgBNvWitCA1MgbSbK9gKVxlsasJ0dwwz5UwQle1getR9qyyXfP2qcPZFHqcDEVscaoWLomLG2is+Lgh/5qILxCKKslmpfhcmbm5JgfysKdeDAtXn0W+8citmC7iwislAuGRfrdfpMy4RHqkAnuTfL8iaBp/fEw/L5KAAoskQ2TdcuLFBtoSa19d5wCAWUKn4GYxjAXkv7qYatMNDFYvOgn0jgmD8traTLiLtEnw0n8IEMBPIwDIEzlFCPvdo2+fiT1c1jldqVpwVDojHJoDwmub5EHOxhEImXmDP5ay89JTc0duWie/V5b+I8uo57QlRjAmko8fzRyz/M8P0zURsikuJVcnPyiJGOGb3i4JBd/I4+kdqJdv2G1InNJFUOBlGD4MBacjWDgUNFI8yX60IsqnGB4bQuDFBWTEfOM/ppaG9NX+NbFUwSpgqLtZen6WjC9sZ4pf5vjVot7f+upV/wUVbZJmFM4dlUt7PoBSdawHrPHBI2ZSLXBclfg==
+  learner_created: false
+- name: test/SavingAccountTest.java
+  visible: true
+  encrypted_text: ITs8Nv8EH6QWJG5nufD7nL+5+4bhYoXDvmVthWtIgQ65QGrosPwl8pWa8Roz0DaO0k3cg0riu+vZ/BD1Qz2FXXSWQ7Au661d+L5fo7e/ziL1pqh2hmYEQxm988xYpu0EW8EH3JBhwESlx6FvzmhRj+OQEx7XAAUB+epnOOOlV8stj3rdx+nNkPb4qxJT3A5obzLF8J4/A+3dpzS4FAph7EJRgrmV/rXxDaQsGL06UKRtkeWMeAHWr4nzw5ekHjZJS3QqODC/VUzuq02TXYbOZfHh4ujt01p79yIN8wYzz1p75BpUL/cejL/04LuIh+IF0tEKKgVS8H6cenHIn+YcMUS3diIVIEd8XxCsMpXwfusbNxGtybEvUVOwEG9MfFdS/ITdaMpXMVrcV88pvH3nP78+Q+ic7todsrtGGZsaJw6B/iAiR2zuIY5hT9IxrTWHx96qdgr0lOh9Gl8NVw/bb9AehTuwP7nC41dA+TrzZl0fEkbslR1rQ0h1k76eQJ+xpeTteikQE3Gl37qZgyQV6MgVrV4IEtXJ0yK5QFcgc+0dUfgn2VdfzBKdpOJ9DwRVQI8UszH4V42cMa/K1dP5Pz0vxR4kclurCeIc13CiAs2VqMfSh7VJ7HWwizxqQ8RwZIxWrf3IdYCdZbhw1xLydkZeZ0y7m079Zp5lVZx4lohMt9sl8fKpO1sj2qwqVIUk85okV8jIwcKirSLafuySfsin9QSgy/D202w+99hNLs4VtQTlMVtZaHNEmDQNSutqbzA5AU+kS4mkdC9aCTrxq20IuNvQ0JYXhxbRimtWr6Z3bqYCyMVpL8nuHbtxHug3c8fn5CJEhdQmuce8a+8+CaYVLZ7DRFecBiIPCTv36wud5xiPBUub6cb902rdlExrdGI1qevySE6YE8OQUeQ8fy86f958gEPfAXOxDjDl2AMqxqNomJclSW3okdgrFf/SSArjxnjjEpacoBrZMZoTf0JfzneRxHSuqUz9iqKoTTlS/JC+jDmT3Y7qci9LpUm+SG+7ceZKwawMdCefbBxjaDjj+ABTMTedxBU4mZmjjYltUb+OJ1U7TjusXhMghGben+F4+v2FyVXlsM7bxv0ffdLPTAuKsWs+APPfCcCuQ8M+j3U+R9AciZpTDqoXsGC7wfqcdLu8RU1+ROZ4yuVVqTgw5D/IbCS5wShhkwMN7Z1la6WKmFs0KYAITkAIOe01YbzQptoc6ewfdn7BqDtsFg==
+  learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,34 @@
+type: edu
+files:
+- name: src/InputChecker.java
+  visible: true
+  placeholders:
+  - offset: 109
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 109
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: mMNfCf+3mViMHgd05xvAeEoGgT8HOqNJ3aJEehizSrbjRZ/vRCYdij1sd86qCIhqLuzlsovECOsb9oqCN6WgoUOz5HT6kiVZUqr3Mc1eLX7SfTniSv3FmmxMRoTqk6j8kyYyfyTXHoIjyodPOYTlRqqRlkQfHF43ut33VS34FcDQpZUp81VPoqwScE2Q/PIFTJFkKA8R55aYq1MFSM5PjfogSJsAl/t7DBOZcqOppXB7wBqJy5lphMJiCduOLSmqfL6PV7q+DA+J6wrOL7u5jonr6fEk4VZ0Y2eChgeShjJKd1x3vgPqJfLgBAZW1jjtAFOQS48Q7v+WM03t4I9DSns4n9moqc2/4roFRu8EMU0TeeLpvk6k0TP23dCdgZOTZQaBU1GXubr87WVSm8Vr5tL6+3BFpym3WH3xWuxFK4WJQNwnM831B0Z2RlWkvcZoysIz60SfPFKJYxcQ1rsLTA5QAj952dCJhNLl+GUHRKXmbLKIUlBsRxYdqGrIvzY3NaJZGplezK3GwqzxcrILDC4ROva6Ag6doNmnh8iLBus=
+  encrypted_text: NYgHoNruO3t7vIi6YFhoHy7/H3N0tonWil/L9SlJDt0JuOhyCAYr2vQa0uZqycbp0a4a7Wf0StC/x8bmm8o7UnGiBaucFvMNAvIIOl4/4fHyXN73w6OHVP6/SvCUF7FOKmwGhcB49IlS76sARxFB/KYWRJeoCsoxxuHgp5dCnFO0F8VjX0r5K53jaBgnwWshRH8fZBKJNoVV5Bl7+8rmuQcAN2oD8LRqah6O1TR+uXbpaBIvFlzrFDpJ7/w/xJe96RagxylJpjH58N/bNN0xPKJSoZVONMW5avbFuTm17UpAT+2AMEFn4RkxGvVciyJ90aKyaaZSJ/vISjSukgZXyWzUNz9kjtW0p5+pGo9iisry4meMb0wujV0c8aLQbb0pBOq7WgP8vMyKlb73+PCFDw1XkDz7o9Dj7pagaIeyLFxWsmknlcCns6o+l8E5A49LalMkZxICWk0hndhic9MouIIWFqWQWrB/FgHS3WtBbd0ccPHwkcOM8TGTUw73PU0LHIVKRRJ4lHwQBo8r0WDihlt2zsbe42M451nGmCKCeHIb5OBJmGKJ3qqjH98X/PRzU0kOOFxV7npSAn9LwYSK0A==
+  learner_created: false
+- name: test/InputCheckerTest.java
+  visible: true
+  placeholders:
+  - offset: 85
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 85
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: MocuzvnZhyt+BoTf+SO4StEiQNhBDTI/oZ9GC8Orjj2lnQl8hPNUF1jUI96PzVr1UPYMmaUKOF/uN6afk2q8oRjldYZ0LwyVSB0071e7zo/XblvbomeFEDLRVjXIWdnUdRnrhsofrX1Xc7SI513QYCajQf/aEApj6OtTJXnZRD8tLG6mrAqvFCUudayGX255xA2abeQxAs2qTOZgLwYKXy/oMMSHstJjmF4oCnKh6BDmvkUK8BsiwISwYO/fjcWM760bmNuHKD68c16+hf33CPR/tNIScy+udxhNVFz2afon1Leg69O/sgkVOb7TVTBY8qu3XFFd7Wi20f1vsL2CnMdCi3ScLJeY5KxVMvKpg+JrkPxHf3QusYPq12cD9yS25P3RsFmQr9J+ITJtVxUsoKhUk6ysmGXUmJ7ROtTdnZ06zTBFb0xUHTY3XEa79imTEzcyqb8X5hWRz+eKT9AUJjmj0+6rd8rfI//9nmzN9iCo+XBNsAZrMDJVl6m8Ixjp3KmE6YcGc8PENAjSntC7/rHcj7yft/PwX8qg1fYrBs3QHiHVym18X0tiuoB0/Ju1cO90/vOzI1YUDPpkhcVZcepE/zQqD0egusJDS9hi1P8hvWCFmUgOLIR3NTZLBR3dQWR7ti2iJ3Ka0dbO245RwMIvicoiq0VTqbXMXC8D7nPLz5f/IxbQyKreUyjuOQaOEDPVelfQZtdCFXuWyBRe469uQ0VgMJkvFakNwTatvJXOzGTGqfO+JPp7YH8UXk67MRzdx2wyDsHzwqtgJ3HEVoOdWD73GmCP/7fFzqWQc5/o+R6ZTLVQ8MeibZRONYFCVZqkPn0mMMhbzkfMMGjsZOtbJNyamVP3yXP4zar4SHaz9QKsnKHcJ8ATiEzhmDPSpgMps0AXi9P6L1vMceUdydrDwK+OpFLYRrSvrc7c5Y8WD9rmGlDisIgIBX4iSKdhsgkFkrUzie2uLannq2TCWUi3AK2kEO93TA1MofkxJtbQEyy5r+sPOgWHqhZiEv9BQFQbtmvONNloTmvgQtlg98rUUOSShe4nfrWjnZ9xAA/du1bhyLBkchS3likKiXZMf4vaWqXzeowhl54lKyKxy49I1aInj9tKjFNJq6K03ymGbEm1PJCDlwH/vCUdqN0DUIhaOMCKzxJfaq1Oa5l4fg==
+  encrypted_text: ITs8Nv8EH6QWJG5nufD7nL+5+4bhYoXDvmVthWtIgQ65QGrosPwl8pWa8Roz0DaOTNc1lxoDgrDm2lLTjdybLHsBOPczwrUgTWodVkFGJVNS/RszhenJNL/0cuBv5SleYJtQ7fm6HXqeLmKy9t0nOA==
+  learner_created: false
+status: Unchecked
+record: -1
